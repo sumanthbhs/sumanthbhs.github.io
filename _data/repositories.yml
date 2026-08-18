@@ -1,0 +1,9 @@
+# Used by the optional GitHub "repositories" page (not enabled by default).
+# List GitHub usernames and repos you'd like to showcase if you turn that page on.
+github_users:
+  - sumanthbhs
+
+repo_description_lines_max: 2
+
+github_repos:
+  - sumanthbhs/sumanthbhs.github.io

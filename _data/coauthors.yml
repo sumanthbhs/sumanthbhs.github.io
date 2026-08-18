@@ -1,0 +1,7 @@
+# Map co-author names to profile links so they become clickable on your
+# Publications page (rendered by jekyll-scholar). Key by lowercase last name.
+# Example:
+#
+# "smith":
+#   - firstname: ["Jane", "J."]
+#     url: https://example.com/jane-smith

@@ -1,0 +1,6 @@
+# Map a venue (journal/conference) abbreviation used in papers.bib to a link
+# and/or a badge color on your Publications page. Example:
+#
+# "JMLR":
+#   url: https://www.jmlr.org/
+#   color: "#00369f"
