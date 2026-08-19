@@ -130,65 +130,50 @@
       "name": "Research",
       "level": "",
       "icon": "fa-solid fa-square-root-variable",
-      "keywords": ["Partition Theory", "Number Theory", "Ramanujan's theta-functions", "q-series", "Congruences"]
+      "keywords": [
+        "Partition Theory",
+        "Number Theory",
+        "Ramanujan's theta-functions",
+        "q-series",
+        "Congruences"
+      ]
     },
     {
       "name": "Teaching",
       "level": "",
       "icon": "fa-solid fa-chalkboard-user",
-      "keywords": ["Real & Complex Analysis", "Abstract & Linear Algebra", "Engineering Mathematics", "Discrete Mathematics", "Machine Learning"]
+      "keywords": [
+        "Real & Complex Analysis",
+        "Abstract & Linear Algebra",
+        "Engineering Mathematics",
+        "Discrete Mathematics",
+        "Machine Learning"
+      ]
     },
     {
       "name": "Computing",
       "level": "",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": ["Python", "Scientific Computing", "LaTeX", "Scilab", "Maxima"]
+      "keywords": [
+        "Python",
+        "Scientific Computing",
+        "LaTeX",
+        "Scilab",
+        "Maxima"
+      ]
     }
   ],
   "interests": [
     {
       "name": "Research Interests",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Partition Theory", "Number Theory", "Ramanujan's theta-functions"]
+      "keywords": [
+        "Partition Theory",
+        "Number Theory",
+        "Ramanujan's theta-functions"
+      ]
     }
   ],
   "languages": [],
-  "references": [],
-  "projects": [
-    {
-      "name": "Arithmetic Properties of Parity Restricted Coloured Partitions",
-      "summary": "PG Project supervision — Sanjay S.",
-      "startDate": "2026-01-01",
-      "endDate": "2026-01-01",
-      "highlights": []
-    },
-    {
-      "name": "Congruences for Restricted Partition Function",
-      "summary": "PG Project supervision — Maheshwari Bagi",
-      "startDate": "2024-01-01",
-      "endDate": "2024-01-01",
-      "highlights": []
-    },
-    {
-      "name": "Applications of Group Theory",
-      "summary": "UG Project supervision — Shreyanka D and Yukthashree A",
-      "startDate": "2023-01-01",
-      "endDate": "2023-01-01",
-      "highlights": []
-    },
-    {
-      "name": "Congruences for Overpartitions",
-      "summary": "UG Project supervision — Nikhil K and Naveen R",
-      "startDate": "2023-01-01",
-      "endDate": "2023-01-01",
-      "highlights": []
-    },
-    {
-      "name": "A Study on Fibonacci Sequence and its Generalizations",
-      "summary": "UG Project supervision — Poojaa K",
-      "startDate": "2021-01-01",
-      "endDate": "2021-01-01",
-      "highlights": []
-    }
-  ]
+  "references": []
 }

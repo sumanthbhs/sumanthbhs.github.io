@@ -45,7 +45,18 @@ A one- or two-line description of the course.
 
 ## Supervision
 
-Research students and project work I currently supervise, or topics I am happy to supervise.
+Student project work I have supervised.
+
+### Postgraduate
+
+- **Arithmetic Properties of Parity Restricted Coloured Partitions** — Sanjay S. (2026)
+- **Congruences for Restricted Partition Function** — Maheshwari Bagi (2024)
+
+### Undergraduate
+
+- **Applications of Group Theory** — Shreyanka D and Yukthashree A (2023)
+- **Congruences for Overpartitions** — Nikhil K and Naveen R (2023)
+- **A Study on Fibonacci Sequence and its Generalizations** — Poojaa K (2021)
 
 ## Resources for students
 
