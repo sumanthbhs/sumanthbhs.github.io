@@ -3,8 +3,7 @@
     "name": "Dr. Sumanth Bharadwaj H. S.",
     "label": "Assistant Professor of Mathematics",
     "image": "",
-    "email": "sumanth.mt.ns@msruas.ac.in",
-    "phone": "",
+    "email": "sumanth [dot] mt [dot] ns [at] msruas [dot] ac [dot] in",
     "summary": "Assistant Professor in the Department of Mathematics and Statistics at M. S. Ramaiah University of Applied Sciences, Bengaluru. Research in number theory and partition theory, focusing on Ramanujan's theta-function identities and congruences for partition functions.",
     "location": {
       "city": "Bengaluru",
@@ -175,5 +174,42 @@
     }
   ],
   "languages": [],
-  "references": []
+  "references": [],
+  "projects": [
+    {
+      "name": "Arithmetic Properties of Parity Restricted Coloured Partitions",
+      "summary": "PG project supervision — Sanjay S.",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-01",
+      "highlights": []
+    },
+    {
+      "name": "Congruences for Restricted Partition Function",
+      "summary": "PG project supervision — Maheshwari Bagi",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "highlights": []
+    },
+    {
+      "name": "Applications of Group Theory",
+      "summary": "UG project supervision — Shreyanka D and Yukthashree A",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "highlights": []
+    },
+    {
+      "name": "Congruences for Overpartitions",
+      "summary": "UG project supervision — Nikhil K and Naveen R",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "highlights": []
+    },
+    {
+      "name": "A Study on Fibonacci Sequence and its Generalizations",
+      "summary": "UG project supervision — Poojaa K",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-01",
+      "highlights": []
+    }
+  ]
 }

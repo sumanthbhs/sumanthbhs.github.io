@@ -24,25 +24,6 @@ students are welcome to email me with questions.
 | 2025-26 | Aug 2025 |  | Course name |  |
 | 2024-25 | Jan 2025 |  | Course name |  |
 
-## Supervision
-
-Student project work I have supervised.
-
-### Postgraduate
-
-| Year | Student | Topic |
-| :--- | :--- | :--- |
-| 2026 | Sanjay S. | Arithmetic Properties of Parity Restricted Coloured Partitions |
-| 2024 | Maheshwari Bagi | Congruences for Restricted Partition Function |
-
-### Undergraduate
-
-| Year | Student | Topic |
-| :--- | :--- | :--- |
-| 2023 | Shreyanka D and Yukthashree A | Applications of Group Theory |
-| 2023 | Nikhil K and Naveen R | Congruences for Overpartitions |
-| 2021 | Poojaa K | A Study on Fibonacci Sequence and its Generalizations |
-
 ## Resources for students
 
 Notes, references, and links that cut across courses — reading recommendations, software, or
