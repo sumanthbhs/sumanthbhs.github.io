@@ -8,40 +8,21 @@ nav_order: 3
 ---
 
 I teach undergraduate and postgraduate mathematics at the Department of Mathematics and
-Statistics, M. S. Ramaiah University of Applied Sciences. Material for my current courses is
-collected below; students are welcome to email me with questions.
+Statistics, M. S. Ramaiah University of Applied Sciences. Course material is collected below;
+students are welcome to email me with questions.
 
-## Current courses
+## Course archive
 
 <!--
-  To add a course, copy one block below and edit it.
-  Put handouts in `assets/pdf/` and link them as /assets/pdf/<filename>.pdf
+  Add a row per offering, newest first. Drop handouts in `assets/pdf/` and link them
+  as [Link](/assets/pdf/<filename>.pdf); leave the cell blank if there is no material yet.
 -->
 
-### Course title — Semester, Year
-
-Programme · Course code (if any)
-
-A one- or two-line description of the course: the main topics and who it is intended for.
-
-- [Syllabus](/assets/pdf/) <!-- replace with the actual PDF path -->
-- [Lecture notes](/assets/pdf/)
-- [Problem sets](/assets/pdf/)
-
-### Course title — Semester, Year
-
-Programme · Course code (if any)
-
-A one- or two-line description of the course.
-
-- [Syllabus](/assets/pdf/)
-- [Lecture notes](/assets/pdf/)
-
-## Previously taught
-
-- Course title — Year
-- Course title — Year
-- Course title — Year
+| Year | Semester | Code | Course | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| 2025-26 | Jan 2026 |  | Course name |  |
+| 2025-26 | Aug 2025 |  | Course name |  |
+| 2024-25 | Jan 2025 |  | Course name |  |
 
 ## Supervision
 
@@ -49,14 +30,18 @@ Student project work I have supervised.
 
 ### Postgraduate
 
-- **Arithmetic Properties of Parity Restricted Coloured Partitions** — Sanjay S. (2026)
-- **Congruences for Restricted Partition Function** — Maheshwari Bagi (2024)
+| Year | Student | Topic |
+| :--- | :--- | :--- |
+| 2026 | Sanjay S. | Arithmetic Properties of Parity Restricted Coloured Partitions |
+| 2024 | Maheshwari Bagi | Congruences for Restricted Partition Function |
 
 ### Undergraduate
 
-- **Applications of Group Theory** — Shreyanka D and Yukthashree A (2023)
-- **Congruences for Overpartitions** — Nikhil K and Naveen R (2023)
-- **A Study on Fibonacci Sequence and its Generalizations** — Poojaa K (2021)
+| Year | Student | Topic |
+| :--- | :--- | :--- |
+| 2023 | Shreyanka D and Yukthashree A | Applications of Group Theory |
+| 2023 | Nikhil K and Naveen R | Congruences for Overpartitions |
+| 2021 | Poojaa K | A Study on Fibonacci Sequence and its Generalizations |
 
 ## Resources for students
 
