@@ -4,13 +4,12 @@ title: about
 permalink: /
 subtitle: Assistant Professor · Department of Mathematics and Statistics, <a href='https://www.msruas.ac.in/'>M. S. Ramaiah University of Applied Sciences</a>, Bengaluru
 
-# To add a profile photo, upload it to `assets/img/prof_pic.jpg` and uncomment
-# the block below. Contact details live in the social links at the foot of this
-# page, so they are deliberately not repeated here.
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
+# Contact details live in the social links at the foot of this page,
+# so they are deliberately not repeated here.
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
