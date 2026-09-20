@@ -29,9 +29,10 @@ students are welcome to email me with questions.
 An interactive tool for exploring mathematical ideas visually — currently covers Linear Algebra,
 Calculus, and Probability & Statistics, with more topics added over time.
 
-<a class="btn btn-lg fw-bold z-depth-0" role="button"
-   href="https://sumanthbhs.github.io/visualmath/" target="_blank" rel="noopener noreferrer">
-  Open visual notes
+<a href="https://sumanthbhs.github.io/visualmath/" target="_blank" rel="noopener noreferrer"
+   style="display: inline-block; font-size: 1.3rem; font-weight: 700; padding: 0.5rem 1rem;
+          border: 2px solid currentColor; border-radius: 6px; text-decoration: none;">
+  Open visual notes →
 </a>
 
 ## Resources for students
