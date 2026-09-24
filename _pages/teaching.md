@@ -21,7 +21,7 @@ students are welcome to email me with questions.
 | Year | Semester | Code | Course | Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-27 | Aug 2026 | MTF101B | Engineering Mathematics – 1 |  |
-| 2026-27 | Aug 2026 | MTF105A | Calculus and Linear Algebra |  |
+| 2026-27 | Aug 2026 | MTF105A | Calculus and Linear Algebra | [MATLAB Basics – Session 1](/assets/pdf/matlab-session-1.pdf), [Session 2](/assets/pdf/matlab-session-2.pdf) |
 | 2026-27 | Aug 2026 | MTC555A | Statistics and Probability for Data Science |  |
 
 ## Visual math notes
