@@ -37,5 +37,5 @@ Calculus, and Probability & Statistics, with more topics added over time.
 
 ## Resources for students
 
-Notes, references, and links that cut across courses — reading recommendations, software, or
-revision material.
+Coming soon — general, cross-course material such as reading recommendations, software, or
+revision resources.
