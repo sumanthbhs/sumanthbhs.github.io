@@ -24,7 +24,11 @@ students are welcome to email me with questions.
 | 2026-27 | Aug 2026 | MTF105A | Calculus and Linear Algebra | [MATLAB Basics – Session 1](/assets/pdf/matlab-session-1.pdf), [Session 2](/assets/pdf/matlab-session-2.pdf) |
 | 2026-27 | Aug 2026 | MTC555A | Statistics and Probability for Data Science |  |
 
-## Visual math notes
+## Resources for students
+
+Notes, references, and links that cut across courses.
+
+### Visual math notes
 
 An interactive tool for exploring mathematical ideas visually — currently covers Linear Algebra,
 Calculus, and Probability & Statistics, with more topics added over time.
@@ -35,7 +39,4 @@ Calculus, and Probability & Statistics, with more topics added over time.
   Open visual notes →
 </a>
 
-## Resources for students
-
-Coming soon — general, cross-course material such as reading recommendations, software, or
-revision resources.
+More resources — reading recommendations, software, or revision material — coming soon.
